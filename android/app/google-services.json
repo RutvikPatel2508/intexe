@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102636633300",
+    "project_id": "intexe-592bf",
+    "storage_bucket": "intexe-592bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102636633300:android:6d7c7af408694dff3f8f41",
+        "android_client_info": {
+          "package_name": "com.example.intexe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102636633300-k8i6v1qqi3i2a62thqg3c834od8rut27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkTcpfsXeePah-E3AUW6aZqMktlXf2w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102636633300-k8i6v1qqi3i2a62thqg3c834od8rut27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
